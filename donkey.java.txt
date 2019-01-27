@@ -1,0 +1,9 @@
+import java.io.*;
+
+class donkey
+{
+	public static void main(String args[])
+	{
+		System.out.print("Wise Donkey");
+	}
+}
